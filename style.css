@@ -1,3 +1,15 @@
+/*Google Font 読み込み*/
+
+<body>
+.sawarabi-gothic-regular {
+  font-family: "Sawarabi Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+</body>
+
+
+
 /* 大見出しの設定 */
 h1 {
     /* font-size:2.0rem; */
